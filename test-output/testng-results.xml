@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T16:39:09 IST" name="Test Suite" finished-at="2021-05-28T16:39:13 IST" duration-ms="3485">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T16:39:09 IST" name="Singleton TC" finished-at="2021-05-28T16:39:13 IST" duration-ms="3485">
+      <class name="Classes.SingletonBrowserTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Classes.SingletonBrowserTest@2053d869]" started-at="2021-05-28T16:39:09 IST" name="setup" finished-at="2021-05-28T16:39:12 IST" duration-ms="3263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyTitle()[pri:1, instance:Classes.SingletonBrowserTest@2053d869]" started-at="2021-05-28T16:39:13 IST" name="VerifyTitle" finished-at="2021-05-28T16:39:13 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method signature="VerifyLogo()[pri:2, instance:Classes.SingletonBrowserTest@2053d869]" started-at="2021-05-28T16:39:13 IST" name="VerifyLogo" finished-at="2021-05-28T16:39:13 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Classes.SingletonBrowserTest@2053d869]" started-at="2021-05-28T16:39:13 IST" name="tearDown" finished-at="2021-05-28T16:39:13 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Classes.SingletonBrowserTest -->
+    </test> <!-- Singleton TC -->
+  </suite> <!-- Test Suite -->
+</testng-results>
